@@ -1,0 +1,12 @@
+.client-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+}
+
+.client-main {
+  flex: 1;
+  background: #fff;
+}
+
